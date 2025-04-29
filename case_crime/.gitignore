@@ -7,3 +7,4 @@ datasets/
 # Ignorar archivos de LibreOffice
 *.odt
 .ipynb_checkpoints/
+.ipynb_checkpoints/
