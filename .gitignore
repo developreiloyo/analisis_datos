@@ -1,0 +1,8 @@
+# Ignorar entorno virtual de Python
+venv/
+
+# Ignorar datasets locales
+datasets/
+
+# Ignorar archivos de LibreOffice
+*.odt
