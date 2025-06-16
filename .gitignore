@@ -6,5 +6,6 @@ datasets/
 
 # Ignorar archivos de LibreOffice
 *.odt
+*.xlsx
 .~lock.*
 key.txt
