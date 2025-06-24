@@ -3,6 +3,7 @@ venv/
 
 # Ignorar datasets locales
 datasets/
+books/
 
 # Ignorar archivos de LibreOffice
 *.odt
