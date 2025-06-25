@@ -88,8 +88,8 @@ Tus contribuciones son bienvenidas y ayudan a hacer de este repositorio una fuen
 
 ¿Tienes preguntas, comentarios o simplemente quieres charlar sobre análisis de datos? ¡Contáctame!
 
-- **GitHub:** [Tu usuario](https://github.com/developreiloyo/analisis_datos/tree/main) 
-- **LinkedIn:** [Tu perfil](https://www.linkedin.com/in/reinaldoloyo/) 
+- **GitHub:** [developreiloyo](https://github.com/developreiloyo/analisis_datos/tree/main) 
+- **LinkedIn:** [reinaldoloyo](https://www.linkedin.com/in/reinaldoloyo/) 
 - **Correo Electrónico:** loyoreinaldojose@gmail.com
 
 ---
